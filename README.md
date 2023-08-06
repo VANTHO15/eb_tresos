@@ -1,3 +1,9 @@
+# Tóm tắt tresos_cmd.bat của EB_Tresos
+    vào C:\EB\tresos\bin
+    gõ ./tresos_cmd.bat --help
+![image](https://github.com/VANTHO15/eb_tresos/assets/56969447/b3d37db7-928a-4371-8ce6-feaaa95b4d51)
+
+
 ## 1. importProject (nhập dự án vào không gian làm việc)
     tresos_cmd.bat importProject -c C:\temp\myproject
     
