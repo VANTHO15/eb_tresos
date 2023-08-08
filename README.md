@@ -93,5 +93,5 @@
 
 ## 26. batch  (thực thi nhiều lệnh EB, đặt các lệnh trong batch file và thực hiện nhiều lệnh theo thứ tự)
 
-
-        ['C:/EB/tresos/plugins/../bin/tresos_cmd.bat', '-DValidate=true', '-Dtarget=CORTEXM4', '-Dderivate=HuLa', '-Dsubderivative=HuLa_01', '-DwriteDefaults=true', '-DwriteXPathAttributes=true', 'legacy', 'convert', 'D:/02XHSC_Project/Python/HuLa_Project/Tools/hula_generate_plugin_ebtresos/Output/Gpio_HuLa/autosar/HuLa_01.xdm', 'D:/02XHSC_Project/Python/HuLa_Project/Tools/hula_generate_plugin_ebtresos/Output/Gpio_HuLa/autosar\\Gpio_HuLa_01.epd@asc:4.4.0']
+## 100 OK GEN EPC
+    ['C:/EB/tresos/plugins/../bin/tresos_cmd.bat', '-DValidate=true', '-Dtarget=CORTEXM4', '-Dderivate=HuLa', '-Dsubderivative=HuLa_01', '-DwriteDefaults=true', '-DwriteXPathAttributes=true', 'legacy', 'convert', 'D:/02XHSC_Project/Python/HuLa_Project/Tools/hula_generate_plugin_ebtresos/Output/Gpio_HuLa/autosar/HuLa_01.xdm', 'D:/02XHSC_Project/Python/HuLa_Project/Tools/hula_generate_plugin_ebtresos/Output/Gpio_HuLa/autosar\\Gpio_HuLa_01.epd@asc:4.4.0']
